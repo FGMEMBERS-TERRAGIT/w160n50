@@ -1,2 +1,7 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -152.488889 57.741667 -185.37 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -152.488056 57.741389 -175.92 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -152.49364 57.74663 22.53 321.59
+# END dsf2stg
